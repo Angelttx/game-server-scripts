@@ -26,3 +26,13 @@ chmod +x minecraft-backup.sh
 ## License
 
 MIT
+
+---
+
+## 💰 Support & Get Full Version
+
+This is the free version. Get the full version with more features:
+
+[Buy on Gumroad - 5](https://haualand.gumroad.com/l/game-server-pro)
+
+---
