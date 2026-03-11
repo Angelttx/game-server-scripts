@@ -33,6 +33,6 @@ MIT
 
 This is the free version. Get the full version with more features:
 
-[Buy on Gumroad - 5](https://haualand.gumroad.com/l/game-server-pro)
+[Buy on Gumroad - 5](https://geir30.gumroad.com/l/game-server-pro)
 
 ---
